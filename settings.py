@@ -1,0 +1,4 @@
+KEY_PIN    = 16
+BUZZER_PIN = 15
+
+PITCH = 440
